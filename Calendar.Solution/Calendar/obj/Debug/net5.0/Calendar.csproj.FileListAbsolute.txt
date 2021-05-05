@@ -1,0 +1,12 @@
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/bin/Debug/net5.0/Calendar.deps.json
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/bin/Debug/net5.0/Calendar.dll
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/bin/Debug/net5.0/ref/Calendar.dll
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/bin/Debug/net5.0/Calendar.pdb
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.csprojAssemblyReference.cache
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.AssemblyInfoInputs.cache
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.AssemblyInfo.cs
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.csproj.CoreCompileInputs.cache
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.dll
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/ref/Calendar.dll
+/Users/jamieknutsen/Desktop/Calendar.Solutions/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.pdb
